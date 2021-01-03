@@ -11,12 +11,9 @@ tensorflow ( >= 2.0 )
 
 ```
 
-## Running the tests
+## Running the test
 
 ```
 python3 face_mask.py
 
 ```
-## Authors
-
-* **Nueral space**
