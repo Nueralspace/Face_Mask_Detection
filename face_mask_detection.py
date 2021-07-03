@@ -8,6 +8,7 @@ import numpy as np
 faceCascade = cv2.CascadeClassifier("/model/haarcascade_frontalface_alt2.xml")
 model = load_model("/model/mask_detector.model")
 
+#capture data from camera
 video_capture = cv2.VideoCapture(2)
 
 while True:
